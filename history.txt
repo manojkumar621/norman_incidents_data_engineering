@@ -1,0 +1,155 @@
+    1  ls
+    2  pwd
+    3  cd ~
+    4  ls
+    5  /
+    6  cd /
+    7  ls
+    8  cd ..
+    9  ls
+   10  pwd
+   11  cd home/
+   12  ls
+   13  cd manojkumargalla/
+   14  ls
+   15  cd ..
+   16  ls
+   17  cd manoj
+   18  ls -ltrh
+   19  cd ..
+   20  ls
+   21  cd ..
+   22  ls
+   23  cd Users/manoj/
+   24  la
+   25  ls
+   26  mkdir cis6930sp24-assignment0
+   27  ls
+   28  python
+   29  python3
+   30  cd /home/manojkumargalla/
+   31  ls
+   32  mkdir cis6930sp24-assignment0
+   33  ls
+   34  htop
+   35  python --version
+   36  python3 --version
+   37  python3 --upgrade
+   38  python3 --h
+   39  python3 -h
+   40  python3
+   41  wget https://www.python.org/ftp/python/3.12.1/Python-3.12.1.tgz
+   42  ls
+   43  mv Python-3.12.1.tgz /mnt/c/Users/manoj/
+   44  ls
+   45  cd ..
+   46  ls
+   47  tar -xvf Python-3.12.1.tgz 
+   48  ls
+   49  cd Python-3.12.1/
+   50  ls
+   51  ./config
+   52  ./configure
+   53  sudo make altinstall
+   54  ls /usr/bin/make
+   55  cd 
+   56  ls
+   57  cd /
+   58  ls
+   59  ls usr/
+   60  ls bin
+   61  ls
+   62  make --version
+   63  sudo apt install make
+   64  history tail -n 5
+   65  history tail
+   66  history | tail -n 5
+   67  history | tail -n 10
+   68  history | tail -n 15
+   69  history | tail -n 25
+   70  cd /mnt/c/Users/manoj/Python-3.12.1
+   71  sudo make altinstall
+   72  sudo make install
+   73  ls
+   74  sudo make install-sh
+   75  make
+   76  sudo make install
+   77  cd ..
+   78  ls
+   79  rm -rf Python-3.12.1
+   80  ls
+   81  sudo apt-get update
+   82  sudo apt-get install python3.12
+   83  sudo apt install python3.12
+   84  sudo apt install python3.12.1
+   85  python --version
+   86  python3 --version
+   87  Copy
+   88  sudo add-apt-repository ppa:deadsnakes/ppa
+   89  sudo apt update
+   90  sudo add-apt-repository ppa:deadsnakes/ppa
+   91  sudo apt update
+   92  apt list | grep python3.12
+   93  sudo apt install python3.12
+   94  python3 --version
+   95  python3.12 --version
+   96  cd /usr/bin/
+   97  ;s
+   98  la
+   99  ls
+  100  rm python3
+  101  sudo rm python3
+  102  ls /usr/local/bin/
+  103  ls
+  104  cd /usr/local/bin/
+  105  ls
+  106  which python3.12
+  107  sudo ln -s /usr/bin/python3.12 /usr/bin/python3
+  108  python3 --version
+  109  cd /mnt/c/Users/manoj/
+  110  ls
+  111  python3 -m venv dataengg
+  112  pip install asd
+  113  sudo apt install pip
+  114  python3 -m venv dataengg
+  115  sudo apt-get install python3-venv
+  116  python3 -m venv dataengg
+  117  ls
+  118  python3 -m venv cis6930
+  119  python3 -m venv myvenv
+  120  python3 -m venv /usr/cis6930
+  121  sudo python3 -m venv /usr/cis6930
+  122  python3 venv /usr/cis6930
+  123  sudo apt-get install python3.12-venv
+  124  python3 -m venv myvenv
+  125  ls
+  126  source myvenv/bin/activate
+  127  ls
+  128  cd cis6930sp24-assignment0/
+  129  ls
+  130  pipenv run python assignment0/main.py --incidents <rwhjsgbakbj>
+  131  pipenv run python assignment0/main.py --incidents rwhjsgbakbj
+  132  sudo apt install pipenv
+  133  pipenv run python assignment0/main.py --incidents rwhjsgbakbj
+  134  pip install urllib3
+  135  pipenv run python assignment0/main.py --incidents rwhjsgbakbj
+  136  pip install urllib3
+  137  pipenv run python assignment0/main.py --incidents rwhjsgbakbj
+  138  python assignment0/main.py --incidents rwhjsgbakbj
+  139  source myvenv/bin/deactivate
+  140  deactivate
+  141  pip --version
+  142  pip3 --version
+  143  python --version
+  144  python3 --version
+  145  python -m ensurepip --upgrade
+  146  python3 -m ensurepip --upgrade
+  147  pip --version
+  148  python3 -m pip install --upgrade pip
+  149  pip install --user pipenv
+  150  ls /usr/lib/
+  151  whereis python3
+  152  which python3
+  153  ls /usr/bin/python3
+  154  ls /usr/bin/
+  155  history > history.txt
