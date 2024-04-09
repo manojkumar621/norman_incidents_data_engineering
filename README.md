@@ -21,9 +21,8 @@ This project can be classified into 3 parts - data download, data extraction, an
 pipenv install
 
 ## How to run
-pipenv run python3 assignment0/main.py --incidents <url>
+pipenv run python3 assignment2.py --urls <file_name>
 
-[![Watch the video](https://img.youtube.com/vi/775e0nLt4gs/0.jpg)](https://www.youtube.com/watch?v=775e0nLt4gs)
 
 ## How to test
 pipenv run python3 -m pytest <test_file>
